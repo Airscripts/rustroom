@@ -1,4 +1,4 @@
-# 🔖 dotfiles  
+# 🔖 Rustroom  
 This repository contains all my personal learning projects written in Rust.  
 
 ## 📦 Installation  
